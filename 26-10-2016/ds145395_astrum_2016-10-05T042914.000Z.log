@@ -1,0 +1,33 @@
+
+Using mongodump at '/home/*****/deploy/lib/src/mongodb-linux-x86_64-community-3.2.9/bin/mongodump' version '3.2.9 (community)'...
+Executing command: 
+/home/madmin/deploy/lib/src/mongodb-linux-x86_64-community-3.2.9/bin/mongodump --host localhost --port 45395 -d astrum -u **** -p **** --authenticationDatabase admin --dumpDbUsersAndRoles --out /mnt/local/misc/backup_temp/backups/57f48194a50e3a792ff37b79/ds145395_astrum_2016-10-05T042914.000Z
+2016-10-04T21:29:16.738-0700	writing astrum.system.indexes to 
+2016-10-04T21:29:16.750-0700	done dumping astrum.system.indexes (14 documents)
+2016-10-04T21:29:16.751-0700	dumping users and roles for astrum
+2016-10-04T21:29:16.801-0700	writing astrum.postes to 
+2016-10-04T21:29:16.802-0700	writing astrum.workorders to 
+2016-10-04T21:29:16.814-0700	writing astrum.notificaciones to 
+2016-10-04T21:29:16.824-0700	writing astrum.contratistamodels to 
+2016-10-04T21:29:16.839-0700	done dumping astrum.postes (50 documents)
+2016-10-04T21:29:16.858-0700	writing astrum.users to 
+2016-10-04T21:29:16.858-0700	done dumping astrum.workorders (14 documents)
+2016-10-04T21:29:16.858-0700	writing astrum.empresas to 
+2016-10-04T21:29:16.898-0700	done dumping astrum.empresas (4 documents)
+2016-10-04T21:29:16.898-0700	writing astrum.clientes to 
+2016-10-04T21:29:16.910-0700	done dumping astrum.users (7 documents)
+2016-10-04T21:29:16.911-0700	writing astrum.kmls to 
+2016-10-04T21:29:16.941-0700	done dumping astrum.clientes (4 documents)
+2016-10-04T21:29:16.941-0700	writing astrum.chatcontentrooms to 
+2016-10-04T21:29:16.953-0700	done dumping astrum.kmls (3 documents)
+2016-10-04T21:29:16.966-0700	writing astrum.trackings to 
+2016-10-04T21:29:16.967-0700	done dumping astrum.chatcontentrooms (2 documents)
+2016-10-04T21:29:16.967-0700	writing astrum.chatrooms to 
+2016-10-04T21:29:16.970-0700	done dumping astrum.chatrooms (2 documents)
+2016-10-04T21:29:16.970-0700	writing astrum.objectlabs-system to 
+2016-10-04T21:29:16.971-0700	done dumping astrum.notificaciones (64 documents)
+2016-10-04T21:29:16.971-0700	writing astrum.objectlabs-system.admin.collections to 
+2016-10-04T21:29:16.972-0700	done dumping astrum.objectlabs-system (1 document)
+2016-10-04T21:29:16.982-0700	done dumping astrum.objectlabs-system.admin.collections (0 documents)
+2016-10-04T21:29:16.984-0700	done dumping astrum.trackings (2 documents)
+2016-10-04T21:29:16.993-0700	done dumping astrum.contratistamodels (8 documents)
